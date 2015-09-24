@@ -1,8 +1,6 @@
 README
 ==============
-This is the README file for my wicked awesome first GIT repo
-
-THIS IS FOR THE RED FEATURE ONLY
+This is the README file and it's for the red feature only
 
 CHANGIND MASTER BRANCH
 More changes to the master branch
